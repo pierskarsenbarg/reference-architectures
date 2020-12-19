@@ -1,0 +1,3 @@
+name: circuit-breaker-reference
+runtime: nodejs
+description: Pulumi implementation of circuit breaker reference architecture
